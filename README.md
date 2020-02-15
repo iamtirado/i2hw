@@ -1,31 +1,3 @@
-# Imba v2 (alpha) Hello World Example [![Netlify Status](https://api.netlify.com/api/v1/badges/57f0ad52-688e-4269-8cb1-77c32b61ee00/deploy-status)](https://app.netlify.com/sites/imba2-hello-world/deploys)
+# Personal Site [![Netlify Status](https://api.netlify.com/api/v1/badges/0aceb19d-b546-4cf4-957c-28d4ff37ba82/deploy-status)](https://app.netlify.com/sites/tirado/deploys)
 
-Template for a Imba v2 project. You are running a bleeding 🩸edge project 👨🏾‍🚀👩🏼‍🚀.
-
-Expect them bugs 🦟🕷🐛🐜🐞❗️
-
-Some of the amazing improvements to the next iteration of Imba are
-- Tags now compile to native web components 🤯
-- Lots and lots of improvements from ES concepts
-- Support for slots
-
-For a complete list of all the bits read: [Imba 2 - a new age](https://github.com/imba/imba/pull/258).
-
-Want to know the status? Check: [Current status of Imba 2.0](https://github.com/imba/imba/issues/263)
-
-## Development
-
-Click [Use this
-template][1] on GitHub to create a new repository with this template.
-
-When you have the code get started by running the following commands
-
-```
-yarn # npm install
-yarn start # npm start
-```
-
-Open the url shown by `yarn start` output in the browser.
-This is automatically configured with hot module reloading
-
-[1]: https://github.com/imba/imba2-hello-world/generate
+Built using [Imba2](https://github.com/imba/imba2-hello-world)
