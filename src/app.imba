@@ -1,19 +1,27 @@
 ### css scoped
 p {
-	color: red;
+	color: gray;
 }
 ###
 
-import './app-button'
-
-var counter = 0
-
 tag app-root
+	@links = [
+		{
+		name: "friends"
+		link: "friends.tirado.app"
+		},{
+		name: "pig-game"
+		link: "pig-game.tirado.app"
+		}
+	]
 	def incr
 		counter++
 
 	def render
 		<self>
-			<p> "Hello there!"
-			<p> "Count is {counter}"
-			<app-button :click.incr> "increment"
+			<h1> "Tirado Apps"
+			<p> "All apps here are built with imba 2"
+			<ul>
+				console.log @links[0].name
+				for link in @links
+					<li> <a href="https://{link.link}" target="_blank"> link.name
