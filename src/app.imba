@@ -32,7 +32,7 @@ tag app-root
 				<p class=""
 					.text-center> 
 					"All apps here are built with "
-					<a href="https://github.com/imba/imba2-hello-world" 
+					<a href="https://github.com/imba/imba2-hello-world" target="_blank"
 						.text-red-400.underline
 						>
 						"Imba 2"
