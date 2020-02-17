@@ -1,12 +1,13 @@
 tag app-root
 	@links = [
-		{
-		name: "pig-game"
+		name: "Chinese Pig Game"
 		link: "pig-game.tirado.app"
-		},{
-		name: "friends"
+		---
+		name: "My friends in Need"
 		link: "friends.tirado.app"
-		}
+		---
+		name: "English Cham Dictionary"
+		link: "cham.tirado.app"
 	]
 	def incr
 		counter++
