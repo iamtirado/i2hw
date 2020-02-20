@@ -8,6 +8,9 @@ tag app-root
 		---
 		name: "English Cham Dictionary"
 		link: "cham.tirado.app"
+		---
+		name: "Chico Bird"
+		link: "chico.tirado.app"
 	]
 	def incr
 		counter++
