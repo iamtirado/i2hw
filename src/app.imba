@@ -3,9 +3,6 @@ tag app-root
 		name: "Chinese Pig Game"
 		link: "pig-game.tirado.app"
 		---
-		name: "My friends in Need"
-		link: "friends.tirado.app"
-		---
 		name: "English Cham Dictionary"
 		link: "cham.tirado.app"
 		---
